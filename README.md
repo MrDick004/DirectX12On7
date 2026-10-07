@@ -33,6 +33,7 @@ Yes, but please give credits. If you want to help me adding new features and inc
 - Control (in DX12 mode), support is experimental but it works
 - Grid 2019 (in DX12 mode), support is experimental but it works
 - Xenia-Canary
+- Pcsx2 v1.7.3581-windows-64bit-SSE4-wxWidgets (D3D12 mode)
 
 Most games that work (except the rendering part) on Windows 7 should now fully work, it is not limited to these games only!
 
